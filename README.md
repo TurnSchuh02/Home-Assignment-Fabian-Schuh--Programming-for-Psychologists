@@ -15,16 +15,16 @@ My code analyzes functional brain imaging data (fMRI) to visualize brain activit
 
 ### Table of Contents
 
-1. Data Files
+1. _Data Files_: for initial visualizations utilized data files, downloaded from Neurosynth (https://neurosynth.org/locations/?x=0&y=0&z=0)
 
-2. Jupiter Notebook: Contains Code
+2. _Jupiter Notebook_: contains code with annotations used to perform visualizations
 
-3. Output Visualizations
+3. _Output Visualizations_: image files of visualizations, including (1) brain map, and (2) histogram.
 
 
 ### Python Packages used
 
-1. os:          file handling & directory operations
-2. nibabel:     reading neuroimaging data files
-4. matplotlib:  plotting histogram
-5. nilearn:     visualizing fMRI data
+1. _os_:          file handling & directory operations
+2. _nibabel_:     reading neuroimaging data files
+4. _matplotlib_:  plotting histogram
+5. _nilearn_:     visualizing fMRI data
